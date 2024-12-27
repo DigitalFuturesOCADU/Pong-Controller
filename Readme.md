@@ -1,3 +1,5 @@
+![Game Start](images/gameStart.png)
+
 # Overview
 
 This repository contains code for creating a wireless controller for the [DF Pong game](https://digitalfuturesocadu.github.io/df-pong/). The controller uses Bluetooth Low Energy (BLE) to send movement data to a central device and provides audio feedback through a buzzer.
