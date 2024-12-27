@@ -14,8 +14,8 @@ The [Two Button Example](examples/BLE/DFpong_controller_2button/DFpong_controlle
 - The controller sends BLE signals to the central device to indicate button presses.
 
 ### Interaction:
-- Press the left button to move left.
-- Press the right button to move right.
+- Press the left button to move up.
+- Press the right button to move down.
 - The buzzer will sound when a button is pressed.
 
 ## Start Template Example
